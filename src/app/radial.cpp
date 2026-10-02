@@ -5,7 +5,7 @@
 
 int main()
 {
-    window w(1280, 720, "Radial");
+    window w(800, 800, "Radial");
     while (!w.shouldClose())
     {
         w.draw();

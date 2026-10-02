@@ -1,0 +1,2 @@
+- [ ] Render window and add controls to the bottom
+- [ ] 

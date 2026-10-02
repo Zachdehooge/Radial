@@ -13,5 +13,7 @@ public:
     void draw();
 
 private:
-    bool showMessageBox = false;
+    bool FirstExampleButton = false;
+    bool SecondExampleButton = false;
+// TODO: Need to add buttons to skip, replay, load, and start/stop loaded LVL II data 
 };
